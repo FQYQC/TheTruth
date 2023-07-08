@@ -1,1 +1,23 @@
-﻿
+﻿  Reading Qt configuration (E:/Qt/6.5.0/msvc2019_64/bin/qmake)
+  uic detective.ui
+  rcc detective.qrc
+  moc mainareas.h
+  moc clueitem.h
+  moc cluelist.h
+  moc detective.h
+  moc policeask.h
+   RCC: Warning: No resources in 'D:\QYQC\PKU\绋嬪簭璁捐瀹炰範\QT\detective\detective\detective.qrc'.
+  mainareas.cpp
+  policeask.cpp
+  clue.cpp
+  clueitem.cpp
+  cluelist.cpp
+  detective.cpp
+  main.cpp
+  qrc_detective.cpp
+  moc_mainareas.cpp
+  moc_clueitem.cpp
+  moc_cluelist.cpp
+  moc_detective.cpp
+  moc_policeask.cpp
+  detective.vcxproj -> D:\QYQC\PKU\程序设计实习\QT\detective\x64\Debug\detective.exe
